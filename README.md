@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Arjun 👋</h1>
 
 <p align="center">
-  <b>AI/ML Engineer | Researcher | GenAI Enthusiast</b><br> | <b> Upcoming Intern @ DTCC</b>
-  Minor in AI @ IIT Ropar | B.Tech AI/ML @ MBU | STEM LLM Engg. @ Outlier.ai
+  <b>AI/ML Engineer | Researcher | GenAI Enthusiast</b> | <b> Upcoming Intern @ DTCC</b> |
+ <br> AI @ IIT Ropar | B.Tech AI/ML @ MBU | STEM LLM Engg. @ Outlier.ai
 </p>
 
 ---
